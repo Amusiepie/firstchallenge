@@ -1,0 +1,120 @@
+.main{
+  text-align: center;
+
+}
+.first{
+background-color: #e38826;
+display: inline-block;
+width: 25%;
+height: 450px;
+position: relative;
+top: 80px;
+border-radius: 12px 0 0 12px;
+font: 15px "Lexend Deca", sans-serif;
+
+}
+.second{
+  background-color: #008b8b;
+  display: inline-block;
+  width: 25%;
+  height: 450px;
+  position: relative;
+  top: 80px;
+  border-radius: 12px 0 0 12px;
+ font: 15px "Lexend Deca", sans-serif;
+}
+.third{
+  background-color: #004241;
+  display: inline-block;
+  width: 25%;
+  height: 450px;
+  position: relative;
+  top: 80px;
+  border-radius: 12px 0 0 12px;
+  font: 15px "Lexend Deca", sans-serif;
+}
+img{
+  position: relative;
+  right:79px;
+  top: 30px;
+}
+h1{
+  color: #F2f2f2;
+  padding-top: 30px;
+  padding-right: 100px;
+  line-height: 2;
+ font:35px "Big Shoulders Display", sans-serif;
+}
+p{
+  color: #D3D3D3;
+}
+button{
+  position: relative;
+  top: 50px;
+  right: 20px;
+}
+
+.btn-1{
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #FFFFFF;
+  padding: 10px 20px 10px 20px;
+  border: solid #fafafa 1px;
+  text-decoration: none;
+  position: relative;
+
+}
+.btn-1:hover {
+  background: #e38826;
+  text-decoration: none;
+}
+
+.btn-2{
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #FFFFFF;
+  padding: 10px 20px 10px 20px;
+  border: solid #fafafa 1px;
+  text-decoration: none;
+}
+.btn-2:hover {
+  background: #008b8b;
+  text-decoration: none;
+}
+
+.btn-3{
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #FFFFFF;
+  padding: 10px 20px 10px 20px;
+  border: solid #fafafa 1px;
+  text-decoration: none;
+}
+.btn-3:hover {
+  background: #004241;
+  text-decoration: none;
+}
+
+.attribution{
+  text-align: center;
+  position: relative;
+  top: 80px;
+  font-size: 20px;
+  padding: 30px;
+}
+.link{
+  text-decoration: none;
+  color: #008b8b;
+}
